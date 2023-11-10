@@ -16,4 +16,4 @@ This repository contains single-cell RNA-seq data processing codes of the paper 
 
 ## Data Availablity:
 
-The single-cell RNA sequencing data are available at GSA with accession number CRA011319. Please feel free to contact us if you have any data analysis issues. (chensj16 ##AT## tsinghua ##DOT## org ##DOT## cn)
+The single-cell RNA sequencing data are available at GSA (https://ngdc.cncb.ac.cn/gsa/) with accession number CRA011319. Please feel free to contact us if you have any data analysis issues. (chensj16 ##AT## tsinghua ##DOT## org ##DOT## cn)
