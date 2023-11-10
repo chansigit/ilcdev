@@ -12,5 +12,4 @@ Contents:
 - SCENIC_GRN
 - TSC_GRN
 - Cell_Identity_Mapping
-- Metabolism
-- DEG_and_Enrichment
+- DEG_Enrichment_and_CellMapping
