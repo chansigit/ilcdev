@@ -1,4 +1,4 @@
-# Code repository for the paper: Dynamic Regulation of Innate Lymphoid Cell Development During Ontogeny
+# Code repository: Dynamic Regulation of Innate Lymphoid Cell Development During Ontogeny
 
 ---
 
